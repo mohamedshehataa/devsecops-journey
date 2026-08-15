@@ -1,6 +1,6 @@
 # DevSecOps Journey
 
-Public build log for a 3-month DevSecOps upskilling plan — starting from a software engineering background (Java, Linux, TCP/TLS, service architecture) toward platform/DevOps engineering with a security specialization.
+Public build log for an 18-week DevSecOps upskilling plan — starting from a software engineering background (Java, Linux, TCP/TLS, service architecture) toward platform/DevOps engineering with a security specialization.
 
 One system, grown week by week: containerized → CI pipeline with security gates → Terraform on AWS → federated identity → policy as code → Kubernetes → hardened cluster → runtime detection → threat-modeled and documented.
 
