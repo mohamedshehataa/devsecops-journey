@@ -19,4 +19,4 @@ One system, grown week by week: containerized → CI pipeline with security gate
 
 ## Environment
 
-Lab VM: local Ubuntu 24.04, VMware, key-only SSH.
+Lab VM: local Ubuntu 26.04 LTS (resolute), VMware, key-only SSH.
